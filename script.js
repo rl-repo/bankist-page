@@ -205,8 +205,8 @@ function slider() {
   }
 
   function init() {
-    goToSlide(0);
     createDots();
+    goToSlide(0);
     activateDot(0);
   }
 
@@ -244,3 +244,5 @@ function slider() {
     }
   });
 }
+
+slider();

@@ -6,7 +6,7 @@
 <br />
 <div align="center">
   <a href="https://rl-repo.github.io/bankist-page/">
-    <img src="img/logo.png" alt="Logo" width="80" height="80">
+    <img src="img/logo.png" alt="Logo">
   </a>
 
 <h3 align="center">Bankist Webpage</h3>
@@ -40,6 +40,10 @@ Topics and techniques employed/learned: bubbling/capturing, DOM traversing, styl
 ## Usage
 
 Testimonal carousel also controlled by left and right arrowkeys.
+
+## Resources
+
+[README template](https://github.com/othneildrew/Best-README-Template)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
