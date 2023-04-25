@@ -6,7 +6,7 @@
 <br />
 <div align="center">
   <a href="https://rl-repo.github.io/bankist-page/">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="img/logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Bankist Webpage</h3>
@@ -46,4 +46,4 @@ Testimonal carousel also controlled by left and right arrowkeys.
 [html.com]: https://img.shields.io/badge/-HTML-black.svg?style=for-the-badge&logo=HTML5&color=gray
 [css.com]: https://img.shields.io/badge/CSS-blue?&style=for-the-badge&logo=css3&logoColor=white
 [js.com]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: img/screenshot.png
